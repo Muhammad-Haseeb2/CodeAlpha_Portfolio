@@ -18,18 +18,18 @@ A **complete personal portfolio website** built with pure HTML, CSS, and vanilla
 │  M. Bilal    About · Projects · Skills · Contact  [Hire] │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  Muhammad           ┌──────────────────┐                │
-│  Bilal        ← →   │  Profile Photo   │                │
-│  ─────────          │                  │                │
-│  Python Developer   │  [Python·Front.] │                │
-│  & Frontend Eng.    └──────────────────┘                │
-│  [View Projects]  [Get in Touch]                        │
+│  Muhammad           ┌──────────────────┐                 │
+│  Haseeb       ← →   │  Profile Photo   │                 │
+│  ─────────          │                  │                 │
+│  Python Developer   │  [Python·Front.] │                 │
+│  & Frontend Eng.    └──────────────────┘                 │
+│  [View Projects]  [Get in Touch]                         │
 │                                                          │
 ├──────────────────────────────────────────────────────────┤
 │   2+          12+          8          ∞                  │
 │  Years       Projects    Tasks     Lines of Code         │
 ├──────────────────────────────────────────────────────────┤
-│  ABOUT  ·  PROJECTS  ·  SKILLS  ·  CONTACT             │
+│  ABOUT  ·  PROJECTS  ·  SKILLS  ·  CONTACT               │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -126,24 +126,6 @@ git add . && git commit -m "Add portfolio site" && git push
 # 4. Your site will be live at:
 #    https://YOUR_USERNAME.github.io/CodeAlpha_Portfolio/task3_portfolio.html
 ```
-
----
-
-## ✏️ Personalisation Guide
-
-Before uploading, update these placeholders in `task3_portfolio.html`:
-
-| Placeholder | Replace With |
-|---|---|
-| `Muhammad Haseeb` | Your full name |
-| `Muhammad-Haseeb2` | Your GitHub username |
-| `muhammad-haseeb-hsb` | Your LinkedIn profile URL slug |
-| `itxhaseeb@gmail.com` | Your email address |
-| `Islamabad, Capital, Pakistan` | Your city/country |
-| Profile photo `src` | Your actual photo URL or local path |
-| Project card links | Your real GitHub repo and live demo URLs |
-| Stats numbers | Your actual stats |
-
 ---
 
 ## 🎨 Design Decisions
